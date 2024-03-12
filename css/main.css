@@ -6,6 +6,7 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(0, 0, 0);
+    overflow-x: hidden;
 }
 
 .topNav {
@@ -74,7 +75,7 @@ height: 300px;
     overflow: hidden;
     border-radius: 25px;
 }
-@media(max-width:800px){
+@media(max-width:600px){
     .flexContainer{
         flex-direction: column;
     }
@@ -119,7 +120,7 @@ height: 300px;
     padding: 10px;
     border-radius: 30px;
 }
-@media(max-width:800px){
+@media(max-width:600px){
     .flexContainer{
         flex-direction: column;
     }
@@ -186,7 +187,7 @@ height: 300px;
     overflow: hidden;
     border-radius: 25px;
 }
-@media(max-width:800px){
+@media(max-width:600px){
     .flexContainer{
         flex-direction: column;
     }
@@ -208,7 +209,7 @@ height: 300px;
     overflow: hidden;
     border-radius: 25px;
 }
-@media(max-width:800px){
+@media(max-width:600px){
     .flexContainer{
         flex-direction: column;
     }
@@ -252,7 +253,7 @@ h1{
     overflow: hidden;
     border-radius: 25px;
 }
-@media(max-width:800px){
+@media(max-width:600px){
     .flexContainer{
         flex-direction: column;
     }
